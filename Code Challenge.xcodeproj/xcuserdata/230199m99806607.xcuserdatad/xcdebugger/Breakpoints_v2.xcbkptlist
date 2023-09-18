@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "137881FE-966E-4167-9BE7-D33386D484C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA652EA1-7ACF-43E9-A766-2F8E9F1DA24D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7D27C66-2DC1-4D04-9503-54FB8C4961C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/TheMovieDBHTTP.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "requestInternal(methodRequest:endpoint:parameters:onError:onSuccess:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7D27C66-2DC1-4D04-9503-54FB8C4961C1 - 8da6a1395816e150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.TheMovieDBHTTP.requestInternal(methodRequest: Code_Challenge.TheMovieDBHTTP.MethodRequest, endpoint: Code_Challenge.TheMovieDBHTTP.Endpoint, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, onFundamentalError: Swift.Optional&lt;(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;, onError: Swift.Optional&lt;(__C.NSURLResponse) -&gt; ()&gt;, onSuccess: Swift.Optional&lt;(Any, __C.NSURLResponse) -&gt; ()&gt;) throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/TheMovieDBHTTP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "F7D27C66-2DC1-4D04-9503-54FB8C4961C1 - 8da6a1395816e173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.TheMovieDBHTTP.requestInternal(methodRequest: Code_Challenge.TheMovieDBHTTP.MethodRequest, endpoint: Code_Challenge.TheMovieDBHTTP.Endpoint, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, onFundamentalError: Swift.Optional&lt;(Swift.Optional&lt;Swift.Error&gt;) -&gt; ()&gt;, onError: Swift.Optional&lt;(__C.NSURLResponse) -&gt; ()&gt;, onSuccess: Swift.Optional&lt;(Any, __C.NSURLResponse) -&gt; ()&gt;) throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/TheMovieDBHTTP.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CB85634-EBC2-4E08-9071-35EE8131908F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "initViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CB85634-EBC2-4E08-9071-35EE8131908F - 558034e92bb656f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Any, __C.NSURLResponse) -&gt; () in Code_Challenge.LoginViewController.authenticateButtonPressed() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "6CB85634-EBC2-4E08-9071-35EE8131908F - 66dc6fe62ace2578"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.NSHTTPURLResponse&gt;) -&gt; () in Code_Challenge.LoginViewController.authenticateButtonPressed() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D20AA34-402F-4391-B1EB-B04AA689D72F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "initViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D20AA34-402F-4391-B1EB-B04AA689D72F - 3f06aa8dd76e11ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.LoginViewController.authenticateButtonPressed() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "8D20AA34-402F-4391-B1EB-B04AA689D72F - d1ce450182015ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.LoginViewController.authenticateButtonPressed() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8D20AA34-402F-4391-B1EB-B04AA689D72F - 3f06aa8dd76e11ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.LoginViewController.authenticateButtonPressed() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A2EBF89-4181-46D3-B1F1-8776327BF607"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A2EBF89-4181-46D3-B1F1-8776327BF607 - fa9f9cfe67144917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "0A2EBF89-4181-46D3-B1F1-8776327BF607 - a571c5d0f56cefaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E75638A-E29D-41E9-8CE8-E6A733FFA62E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E75638A-E29D-41E9-8CE8-E6A733FFA62E - fa9f9cfe67144e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "0E75638A-E29D-41E9-8CE8-E6A733FFA62E - fa9f9cfe67144e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "0E75638A-E29D-41E9-8CE8-E6A733FFA62E - fa9f9cfe67144e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44781973-249D-4544-BB60-30CE3FF1004F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44781973-249D-4544-BB60-30CE3FF1004F - fa9f9cfe67144e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "44781973-249D-4544-BB60-30CE3FF1004F - fa9f9cfe67144e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "44781973-249D-4544-BB60-30CE3FF1004F - fa9f9cfe67144e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "44781973-249D-4544-BB60-30CE3FF1004F - fa9f9cfe67144e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "44781973-249D-4544-BB60-30CE3FF1004F - fa9f9cfe67144972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "951DB89E-80F9-4179-A534-AC6A52385CBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "951DB89E-80F9-4179-A534-AC6A52385CBF - fa9f9cfe67144955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "951DB89E-80F9-4179-A534-AC6A52385CBF - fa9f9cfe67144955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "951DB89E-80F9-4179-A534-AC6A52385CBF - fa9f9cfe67144955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "951DB89E-80F9-4179-A534-AC6A52385CBF - fa9f9cfe67144934"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A6B1216-222B-4C21-BF88-8937AF64C83D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/AuthenticationBrowserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECEA3B30-5AE8-4450-A6E7-9A50A680E116"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/AuthenticationBrowserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D911EEDA-36DD-442B-B775-8FCC06506C01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0025E70E-C1E1-4C86-8DBF-A5AA9403F098"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9548BF4E-EE8F-47B0-86E8-346EA40B5669"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47809101-AB45-47FD-BA96-145B0D335772"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47809101-AB45-47FD-BA96-145B0D335772 - a571c5d0f56ceea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "47809101-AB45-47FD-BA96-145B0D335772 - a571c5d0f56ceea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "335C848E-D326-4807-9A9F-4A5A866EF19D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/HttpBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "335C848E-D326-4807-9A9F-4A5A866EF19D - a571c5d0f56cef89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2092">
+               </Location>
+               <Location
+                  uuid = "335C848E-D326-4807-9A9F-4A5A866EF19D - fa9f9cfe67144955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.HttpBase.request() throws -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/HttpBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E72BDC1D-7654-4EC2-8ECD-28342A413961"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E59FB198-ADDB-46CF-A111-5975669D00D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/AuthenticationBrowserViewController/AuthenticationBrowserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13620F2D-68AE-4374-B3F3-183A9A531AF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/CreateSessionRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AA536D5-B6EE-4811-B54A-1543026A74F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89EDBD0C-3F46-4226-ABFD-37CDD3C1CEFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89EDBD0C-3F46-4226-ABFD-37CDD3C1CEFD - 6dd18b50e8890951"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "89EDBD0C-3F46-4226-ABFD-37CDD3C1CEFD - 6dd18b50e8890993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F92933-0A14-4BAB-9236-2ABB45C9F724"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67F92933-0A14-4BAB-9236-2ABB45C9F724 - a041f8d516e25cd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "67F92933-0A14-4BAB-9236-2ABB45C9F724 - a041f8d516e25cd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "67F92933-0A14-4BAB-9236-2ABB45C9F724 - a041f8d516e25b1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "67F92933-0A14-4BAB-9236-2ABB45C9F724 - a041f8d516e25b1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "864">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88927A39-B2F1-4AA9-80FF-6F7C882B6ADD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88927A39-B2F1-4AA9-80FF-6F7C882B6ADD - a041f8d516e25c45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "88927A39-B2F1-4AA9-80FF-6F7C882B6ADD - a041f8d516e25cbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3E4FD09-B6EB-4169-A503-47E0BFF0768C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BEE6208-6417-46B0-A89F-C1EDA60EC2AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BEE6208-6417-46B0-A89F-C1EDA60EC2AA - a041f8d516e25b7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1144">
+               </Location>
+               <Location
+                  uuid = "9BEE6208-6417-46B0-A89F-C1EDA60EC2AA - a041f8d516e25b7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FA4679B-CB39-40C3-924E-63AB2158B89B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FA4679B-CB39-40C3-924E-63AB2158B89B - a041f8d516e25bd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1260">
+               </Location>
+               <Location
+                  uuid = "4FA4679B-CB39-40C3-924E-63AB2158B89B - a041f8d516e25a8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviePopularRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "972DE278-ECC2-405F-9FDA-05D7BC492DD4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CAF3FDE-CACA-4DD0-BD2C-E4581F10410B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviePopular/MoviePopularRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "742F383F-A8A4-4AA9-A816-923028316566"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/View/MoviesCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "loadData(currentPage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "742F383F-A8A4-4AA9-A816-923028316566 - 6bdc7b42cbd761b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Code_Challenge.ResultsResponse&gt;) -&gt; () in Code_Challenge.MoviesCollectionView.loadData(currentPage: Swift.Int32) -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/View/MoviesCollectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "742F383F-A8A4-4AA9-A816-923028316566 - 6bdc7b42cbd76135"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Code_Challenge.ResultsResponse&gt;) -&gt; () in Code_Challenge.MoviesCollectionView.loadData(currentPage: Swift.Int32) -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/View/MoviesCollectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF44605F-2DD3-4E7A-8014-EBB755021326"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/View/MoviesCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadData(currentPage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "360A0110-C909-4BF6-A5BA-F6C633C3745B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/View/MoviesCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "loadData(currentPage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE58B115-7BC9-4F7D-B161-2A8F61EDB9AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Controller/UserDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "loadUserDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE58B115-7BC9-4F7D-B161-2A8F61EDB9AE - 4d7d233ee5a7cbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Code_Challenge.UserDetailsReponse&gt;) -&gt; () in Code_Challenge.UserDetailsViewController.loadUserDetails() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/UserDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "AE58B115-7BC9-4F7D-B161-2A8F61EDB9AE - 4d7d233ee5a7cbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Code_Challenge.UserDetailsReponse&gt;) -&gt; () in Code_Challenge.UserDetailsViewController.loadUserDetails() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/UserDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AE58B115-7BC9-4F7D-B161-2A8F61EDB9AE - ed94666cc51e68fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Code_Challenge.UserDetailsResponse&gt;) -&gt; () in Code_Challenge.UserDetailsViewController.loadUserDetails() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Controller/UserDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA6E5223-F680-4A1B-AA6F-C61BF428581F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA038D80-E4D4-45C8-BE20-427183CB0AA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA038D80-E4D4-45C8-BE20-427183CB0AA3 - 564f1f2ca2e2ef64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviesRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+               <Location
+                  uuid = "FA038D80-E4D4-45C8-BE20-427183CB0AA3 - 564f1f2ca2e2ef64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviesRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDDA872A-612C-4EEB-B53C-7898C2775EC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Code Challenge/Model/Http/Request/MoviesRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDDA872A-612C-4EEB-B53C-7898C2775EC2 - 564f1f2ca2e2ef81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviesRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "DDDA872A-612C-4EEB-B53C-7898C2775EC2 - 564f1f2ca2e2ef81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Code_Challenge.MoviesRequest.request() -&gt; ()"
+                  moduleName = "Code Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/230199m99806607/Documents/Projects/Code%20Challenge/Code%20Challenge/Model/Http/Request/MoviesRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

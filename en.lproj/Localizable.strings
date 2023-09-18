@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Code Challenge
+
+  Created by 230199M99806607 on 18/09/23.
+  
+*/
+
+"Authenticate" = "Authenticate";
+"Success" = "Success";
+"Expires_At" = "Expires At";
+"Request_Token" = "Request Token";
+"Popular" = "Popular";
+"Top_Rated" = "Top Rated";
+"On_TV" = "On TV";
+"Airing_Today" = "Airing Today";
+"Ver_perfil_del_usuario" = "Ver perfil del usuario";
+"requestToken_invalid" = "El requestToken no ha sido inicializado. Iniciailízalo y vuelve a llamar a este controlador :)";
+"Authentication_Granted" = "Authentication Granted";
+"Error_al_cargar_la_imagen" = "Error al cargar la imagen";
+"Votos" = "Votos";
+"Para_adultos" = "Para adultos";
+"Yes" = "Sí";
+"No" = "No";
+"Popularidad" = "Popularidad";
+"Cerrar_sesion" = "Cerrar sesión";
+
+"ID" = "ID";
+"Nombre" = "Nombre";
+"Username" = "Username";
+"init_implemented" = "init(coder:) has not been implemented";
+"init_not_supported" = "init(coder:) is not supported";
+"error_decodificar_json" = "Error al decodificar JSON";
+
+"Default_Configuration" = "Default Configuration";
+"Unresolved_error" = "Unresolved error";
+"error_decodificar_json" = "Error al decodificar JSON";
+
+
+
+
+
